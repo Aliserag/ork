@@ -5,7 +5,7 @@ import '@/styles/tailwind.css'
 export const metadata = {
   title: {
     template: '%s - Studio',
-    default: 'Studio - Award R&D firm based in Canada',
+    default: 'Studio - Award Winning R&D firm based in Canada',
   },
 }
 
